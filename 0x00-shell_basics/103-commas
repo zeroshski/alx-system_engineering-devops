@@ -1,2 +1,2 @@
-#1/bin/bash
-ls -amvp
+#!/bin/bash
+ls -amp | sort -d\
